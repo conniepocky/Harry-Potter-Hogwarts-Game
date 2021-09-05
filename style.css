@@ -1,0 +1,13 @@
+body {
+  
+  text-align: center;
+  font-family: Jua;
+  color: #7C45A5;
+  background-color: #A66FD0;
+  border: solid;
+}
+
+#img {
+  width: 4;
+  border: solid;
+}
